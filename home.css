@@ -411,7 +411,7 @@ a {
     .info2 {
         margin-top: 130px;
         margin-left: -125px;
-        font-size: 9px;
+        font-size: 7px;
     }
     .h {
         font-size: 32px;
@@ -427,7 +427,6 @@ a {
     }
     .slide {
         margin-left: -20px;
-        height: 600px;
         width: 120px;
     }
     .our-firm {
