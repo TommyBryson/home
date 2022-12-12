@@ -341,11 +341,13 @@ a {
 }
 
 .new-york-text {
+    color: #fff;
     position: absolute;
     top: 5740px;
     left: 270px;
 }
 .road {
+    color: #fff;
     font-size: 23px;
     line-height: 87%;
     position: absolute;
