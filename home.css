@@ -469,7 +469,7 @@ a {
 @media (max-width: 700px) {
     .h1 {
         margin-left: 0;;
-        font-size: 18px;
+        font-size: 16px;
     }
     header ul {
         margin-left: -40px;
@@ -710,7 +710,7 @@ a {
     .i1 {
         position: absolute;
         left: 90px;
-        top: 5000px;
+        margin-top: 6300px;
     }
     .stephen2 {
         margin-left: -500px;
@@ -776,15 +776,19 @@ a {
         margin-top: 10px;
     }
     .sh {
+        margin-left: 0;
         display: none;
     }
     .sh2 {
+        margin-left: 0;
         display: none;
     }
     .sh3 {
+        margin-left: 0;
         display: none;
     }
     .sh4 {
+        margin-left: 0;
         display: none;
     }
 }
