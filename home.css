@@ -354,22 +354,11 @@ a {
 }
 
 .btn {
-    border:none;
-    position: absolute;
-    left: 690px;
-    top: 3000px;
-    height: 46px;
-    width: 133px;
-    background: #1B1A1A;
-    border-radius: 14px;
+    display: none;
 }
 
 .btn a {
-    position: absolute;
-    top: 10px;
-    right: -26px;
-    font-size: 16px;
-    color: #fff;
+    display: none;
 }
 
 .view {
