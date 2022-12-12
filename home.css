@@ -342,14 +342,14 @@ a {
 
 .new-york-text {
     position: absolute;
-    top: 5790px;
+    top: 5500px;
     left: 650px;
 }
 .road {
     font-size: 23px;
     line-height: 87%;
     position: absolute;
-    top: 5820px;
+    top: 5620px;
     left: 650px;
 }
 
@@ -357,7 +357,7 @@ a {
     border:none;
     position: absolute;
     left: 690px;
-    top: 6230px;
+    top: 6040px;
     height: 46px;
     width: 133px;
     background: #1B1A1A;
@@ -477,7 +477,7 @@ a {
 
 
 
-@media (max-width: 678px) {
+@media (max-width: 700px) {
     .h1 {
         margin-left: 0;;
         font-size: 18px;
