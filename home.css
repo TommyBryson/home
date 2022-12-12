@@ -386,27 +386,27 @@ a {
     header ul {
         margin-left: -40px;
         margin-top: 40px;
-        font-size: 6px;
+        font-size: 8px;
     }
     header ul a {
-        font-size: 12px;
+        font-size: 9px;
         
     }
     .get-btn {
         position: absolute;
-        left: -1300px;
+        left: -1340px;
         margin-top: -30px;
         height: 40px;
     }
     .get-a-btn {
-        font-size: 14px;
+        font-size: 12px;
     }
     .image {
         position: absolute;
         left: 0;
         top: 810px;
         height: 500px;
-        width: 421px;
+        width: 400px;
     }
     .info2 {
         margin-top: 130px;
