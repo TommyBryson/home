@@ -399,21 +399,22 @@ a {
         height: 40px;
     }
     .get-a-btn {
-        font-size: 12px;
+        font-size: 14px;
     }
     .image {
         position: absolute;
         left: 0;
         top: 810px;
         height: 500px;
-        width: 400px;
+        width: 380px;
     }
     .info2 {
         margin-top: 130px;
         margin-left: -125px;
-        font-size: 12px;
+        font-size: 11px;
     }
     .h {
+        font-size: 32px;
         margin-left: -120px;
     }
     .info {
@@ -426,7 +427,7 @@ a {
     }
     .slide {
         margin-left: -20px;
-        width: 150px;
+        width: 120px;
     }
     .our-firm {
         margin-left: 130px;
@@ -457,7 +458,7 @@ a {
         margin-left: 180px;
     }
     .slide3 img {
-        width: 421px;
+        width: 380px;
         margin-left: -10px;
     }
     .sl3-text {
@@ -472,11 +473,11 @@ a {
     }
     .process {
         margin-top: 150px;
-        margin-left: -280px;
+        margin-left: 0px;
     }
     .sl4-h1 {
         font-size: 28px;
-        margin-left: -270px;
+        margin-left: 0px;
     }
     .icon-1 {
         margin-left: 150px;
@@ -484,48 +485,48 @@ a {
     .icon-2 {
         position: absolute;
         left: -145px;
-        top: 2820px;
+        top: 2920px;
     }
     .icon-3 {
         position: absolute;
         left: -143px;
-        top: 3100px;
+        top: 3180px;
     }
     .sketch {
         position: absolute;
         left: -300px;
-        top: 2690px;
+        top: 2840px;
     }
     .final {
         position: absolute;
         left: -730px;
-        top: 3050px;
+        top: 3130px;
     }
     .build {
         position: absolute;
         left: -1145px;
-        top: 3323px;
+        top: 3400px;
     }
 
     .inf {
         position: absolute;
         left: -310px;
-        top: 2720px;
+        top: 2860px;
     }
     .inf2 {
         position: absolute;
         left: -730px;
-        top: 3130px;
+        top: 3210px;
     }
     .inf3 {
         position: absolute;
         left: -1145px;
-        top: 3400px;
+        top: 3470px;
     }
     .slide5 img {
         margin-top: 680px;
         margin-left: -8px;
-        width: 421px;
+        width: 380px;
     }
     .sl5-h1 {
         font-size: 10px;
@@ -538,13 +539,13 @@ a {
         margin-top: 10px;
     }
     .customers {
-        height: 400px;
-        width: 421px;
+        height: 440px;
+        width: 379px;
         margin-top: -310px;
         margin-left: -8px;
     }
     .prior {
-        margin-left: 30px;
+        margin-left: 20px;
         font-size: 15px;
     }
     .happy-customers {
@@ -557,7 +558,7 @@ a {
     }
     .slide6 img {
         margin-left: -8px;
-        width: 421px;
+        width: 380px;
         height: 300px;
     }
     .staircase {
@@ -579,7 +580,7 @@ a {
     }
     .slide7 {
         margin-left: -8px;
-        width: 340px;
+        width: 300px;
     }
     .column-1 {
         margin-left: -30px;
