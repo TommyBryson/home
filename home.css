@@ -406,7 +406,7 @@ a {
         left: 0;
         top: 810px;
         height: 500px;
-        width: 380px;
+        width: 385px;
     }
     .info2 {
         margin-top: 130px;
@@ -431,7 +431,7 @@ a {
     }
     .our-firm {
         margin-left: 130px;
-        margin-top: 580px;
+        margin-top: 600px;
     }
     .text {
         font-size: 13px;
@@ -467,7 +467,7 @@ a {
         margin-top: -140px;
     }
     .sl3-text2 {
-        font-size: 8px;
+        font-size: 7px;
         margin-left: 260px;
         margin-top: 10px;
     }
@@ -534,13 +534,13 @@ a {
         margin-top: -140px;
     }
     .sl5-text {
-        font-size: 8px;
+        font-size: 7px;
         margin-left: 260px;
         margin-top: 10px;
     }
     .customers {
         height: 440px;
-        width: 379px;
+        width: 390px;
         margin-top: -310px;
         margin-left: -8px;
     }
@@ -558,7 +558,7 @@ a {
     }
     .slide6 img {
         margin-left: -8px;
-        width: 380px;
+        width: 390px;
         height: 300px;
     }
     .staircase {
@@ -593,11 +593,11 @@ a {
     }
     .new-york-text {
         margin-left: -600px;
-        margin-top: -710px;
+        margin-top: -730px;
     }
     .road {
         margin-left: -600px;
-        margin-top: -700px;
+        margin-top: -720px;
     }
     .btn {
         margin-left: -550px;
@@ -619,85 +619,5 @@ a {
     }
     .see {
         margin-top: 40px;
-    }
-    .i1 {
-        position: absolute;
-        left: 90px;
-        top: 5000px;
-    }
-    .stephen2 {
-        margin-left: -500px;
-        margin-top: 320px;
-    }
-    .senior {
-        margin-left: -500px;
-        margin-top: 10px;
-    }
-    .i2 {
-        position: absolute;
-        left: 90px;
-        margin-top: 160px;
-    }
-    .nolan {
-        margin-left: -920px;
-        margin-top: 170px;
-    }
-    .ass {
-        margin-left: -920px;
-        margin-top: 10px;
-    }
-    .i3 {
-        position: absolute;
-        left: 90px;
-        margin-top: 150px;
-
-    }
-    .ferris {
-        margin-left: -500px;
-        margin-top: -20px;
-    }
-    .ass2 {
-        margin-left: -500px;
-        margin-top: 10px;
-    }
-    .i4 {
-        position: absolute;
-        left: 90px;
-        margin-top: 310px;
-
-    }
-    .aria {
-        margin-left: -920px;
-        margin-top: 170px;
-    }
-    .senior2 {
-        margin-left: -920px;
-        margin-top: 10px;
-    }
-    .i5 {
-        position: absolute;
-        left: 90px;
-        margin-top: 630px;
-
-    }
-    .niko {
-        margin-left: -1350px;
-        margin-top: 340px;
-    }
-    .partner {
-        margin-left: -1350px;
-        margin-top: 10px;
-    }
-    .sh {
-        display: none;
-    }
-    .sh2 {
-        display: none;
-    }
-    .sh3 {
-        display: none;
-    }
-    .sh4 {
-        display: none;
     }
 }
