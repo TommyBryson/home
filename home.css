@@ -427,6 +427,7 @@ a {
     }
     .slide {
         margin-left: -20px;
+        height: 600px;
         width: 120px;
     }
     .our-firm {
@@ -620,4 +621,22 @@ a {
     .see {
         margin-top: 40px;
     }
+    .sh {
+        margin-left: 0;
+        display: none;
+    }
+    .sh2 {
+        margin-left: 0;
+        display: none;
+    }
+    .sh3 {
+        margin-left: 0;
+        display: none;
+    }
+    
+    .sh4 {
+        margin-left: 0;
+        display: none;
+    }
+    
 }
