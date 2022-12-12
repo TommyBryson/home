@@ -408,17 +408,17 @@ a {
 }
 .i3 {
     position: absolute;
-    top: 6550px;
+    top: 6200px;
     left: 580px;
 }
 .i4 {
     position: absolute;
-    top: 6700px;
+    top: 6200px;
     left: 1000px;
 }
 .i5 {
     position: absolute;
-    top: 6420px;
+    top: 6020px;
     left: 1430px;
 }
 
@@ -469,7 +469,7 @@ a {
 @media (max-width: 700px) {
     .h1 {
         margin-left: 0;;
-        font-size: 16px;
+        font-size: 18px;
     }
     header ul {
         margin-left: -40px;
@@ -710,7 +710,7 @@ a {
     .i1 {
         position: absolute;
         left: 90px;
-        margin-top: 6300px;
+        top: 5000px;
     }
     .stephen2 {
         margin-left: -500px;
@@ -776,19 +776,15 @@ a {
         margin-top: 10px;
     }
     .sh {
-        margin-left: 0;
         display: none;
     }
     .sh2 {
-        margin-left: 0;
         display: none;
     }
     .sh3 {
-        margin-left: 0;
         display: none;
     }
     .sh4 {
-        margin-left: 0;
         display: none;
     }
 }
