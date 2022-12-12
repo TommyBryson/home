@@ -786,4 +786,16 @@ a {
         margin-left: -1350px;
         margin-top: 10px;
     }
+    .sh {
+        display: none;
+    }
+    .sh2 {
+        display: none;
+    }
+    .sh3 {
+        display: none;
+    }
+    .sh4 {
+        display: none;
+    }
 }
