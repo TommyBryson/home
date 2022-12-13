@@ -10,7 +10,7 @@ header {
 ul {
     list-style: none;
     display: flex;
-    margin-left: 600px;
+    margin-left: 700px;
     margin-top: -40px;
 }
 
@@ -384,7 +384,7 @@ a {
         font-size: 18px;
     }
     header ul {
-        margin-left: -40px;
+        margin-right: 10px;
         margin-top: 40px;
         font-size: 8px;
     }
