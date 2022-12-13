@@ -384,13 +384,13 @@ a {
         font-size: 18px;
     }
     header ul {
-        margin-left: 500px;
+        margin-left: 0px;
         margin-top: 40px;
 
     }
     header ul a {
         font-size: 7px;
-        
+        padding: 0;
     }
     .get-btn {
         position: absolute;
